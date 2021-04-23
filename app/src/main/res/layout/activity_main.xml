@@ -146,5 +146,6 @@ android:layout_gravity="end"
     android:layout_height="wrap_content"
     />
 
+<!--edit text here with some icons-->
 
 </LinearLayout>
