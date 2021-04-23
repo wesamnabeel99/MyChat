@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="marginSmall">8dp</dimen>
+    <dimen name="textSizeMedium">16sp</dimen>
+    <dimen name="icon">12dp</dimen>
+    <dimen name="mediumMargin">8dp</dimen>
+    <dimen name="message_width">240dp</dimen>
+</resources>
